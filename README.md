@@ -24,8 +24,8 @@ The interface uses **semantic substrates** (Shneiderman & Aris, 2006) to organiz
 ### Installation
 
 ```bash
-git clone https://github.com/dominicvdb/visualanalytics-design-challenge
-cd YOUR_REPO
+git clone https://github.com/dominicvdb/visualanalytics-design-challenge.git
+cd visualanalytics-design-challenge
 pip install -r requirements.txt
 ```
 
