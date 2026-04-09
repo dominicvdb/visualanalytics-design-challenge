@@ -40,7 +40,7 @@ The app will open in your browser.
 ## Project structure
 
 ```
-├── pathtrace_app.py          # Marimo app (main file)
+├── VA_interface_app.py        # Marimo app (main file)
 ├── pyproject.toml             # Marimo runtime config
 ├── requirements.txt           # Python dependencies
 ├── subset_hetionet.py         # Script to regenerate the subset from full Hetionet
