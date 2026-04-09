@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ### Running
 
 ```bash
-marimo run pathtrace_app.py
+marimo run VA_interface_app.py
 ```
 
 The app will open in your browser.
