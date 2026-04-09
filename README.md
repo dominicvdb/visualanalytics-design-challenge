@@ -24,7 +24,7 @@ The interface uses **semantic substrates** (Shneiderman & Aris, 2006) to organiz
 ### Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/dominicvdb/visualanalytics-design-challenge
 cd YOUR_REPO
 pip install -r requirements.txt
 ```
