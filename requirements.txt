@@ -1,0 +1,4 @@
+marimo
+networkx
+anywidget
+traitlets
